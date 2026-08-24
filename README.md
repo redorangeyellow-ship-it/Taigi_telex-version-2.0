@@ -12,7 +12,7 @@ Links
 
 Copyright
 ---------
-See [LICENSE.md](LICENSE.md)
+See [LICENSE.md](taigi-telex/LICENSE.md)
 
 Supported Platforms
 -------------------
