@@ -1,30 +1,3 @@
-Taigi Telex keyboard
-==============
+Open branch
 
-Version 2.0
-
-Description
------------
-Taigi Telex generated from template
-
-Links
------
-
-Copyright
----------
-See [LICENSE.md](taigi_telex/LICENSE.md)
-
-Supported Platforms
--------------------
- * Windows
- * macOS
- * Linux
- * Web
- * iPhone
- * iPad
- * Android phone
- * Android tablet
- * Mobile devices
- * Desktop devices
- * Tablet devices
-
+This branch is now opened <code>Cathaylaboratory/Taigi_telex-version-2.0:main</code>.
